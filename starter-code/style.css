@@ -4,4 +4,11 @@ body{
 }
 .moldura_conteiner{
     display: flex;
+    flex-wrap: wrap;
+    width: 375px;
+}
+
+.botao{
+    width: 50px;
+    padding: 50px;
 }
